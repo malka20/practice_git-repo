@@ -1,1 +1,1 @@
-my second README 
+My first Time in ALX SOFTWARE ENGINEERING. I AM HAVING FUN WITH GIT yeeey
